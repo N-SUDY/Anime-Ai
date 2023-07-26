@@ -14,7 +14,7 @@ OWNER_ID = os.environ.get('OWNER_ID', 5468192421)
 SAMPLER = os.environ.get('SAMPLER', 'k_euler_a')
 MODEL = os.environ.get('MODEL', 'anime')
 GENDER = os.environ.get('GENDER', 'female')
-NSFW = os.environ.get('NSFW', 'true)
+NSFW = os.environ.get('NSFW', 'true')
 
 
 api = NoidAPI()
