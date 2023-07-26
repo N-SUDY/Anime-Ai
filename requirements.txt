@@ -2,3 +2,4 @@ Pyrogram
 TgCrypto
 requests
 xgorn-api
+flask==2.0.1
